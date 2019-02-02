@@ -1,5 +1,5 @@
 # DBMS assignment for semester-1 
-_ Submitted by : Abhinav _
+_Submitted by : Abhinav_
 
 * Closure
 * 2NF
