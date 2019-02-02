@@ -1,4 +1,4 @@
-# DBMS assignment for semester-1 
+# DBMS assignment for Semester-1 
 _Submitted by : Abhinav_
 
 * Closure
